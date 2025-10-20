@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -17,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/resultopac/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
