@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/resultopac/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/resultopac/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/resultopac/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/resultopac/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
