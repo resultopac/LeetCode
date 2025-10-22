@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3379-score-of-a-string](https://github.com/resultopac/LeetCode/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
