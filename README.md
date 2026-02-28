@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/resultopac/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/resultopac/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
