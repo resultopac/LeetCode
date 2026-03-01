@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/resultopac/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/resultopac/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
@@ -57,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
+| [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/resultopac/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/resultopac/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
