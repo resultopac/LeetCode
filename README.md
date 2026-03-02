@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/resultopac/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Array
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
+| [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/resultopac/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/resultopac/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/resultopac/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
+| [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/resultopac/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/resultopac/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/resultopac/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Sorting
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
 <!---LeetCode Topics End-->
