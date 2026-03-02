@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3379-score-of-a-string](https://github.com/resultopac/LeetCode/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
 | [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
