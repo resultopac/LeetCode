@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/resultopac/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3379-score-of-a-string](https://github.com/resultopac/LeetCode/tree/master/3379-score-of-a-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
+| [1143-longest-common-subsequence](https://github.com/resultopac/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1220-count-vowels-permutation](https://github.com/resultopac/LeetCode/tree/master/1220-count-vowels-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
