@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/resultopac/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/resultopac/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3379-score-of-a-string](https://github.com/resultopac/LeetCode/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
