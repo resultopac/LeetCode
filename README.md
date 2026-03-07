@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/resultopac/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
 | [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/resultopac/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/resultopac/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/resultopac/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/resultopac/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1220-count-vowels-permutation](https://github.com/resultopac/LeetCode/tree/master/1220-count-vowels-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/resultopac/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
