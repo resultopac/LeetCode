@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/resultopac/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/resultopac/LeetCode/tree/master/1025-divisor-game) |
 | [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/resultopac/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/resultopac/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/resultopac/LeetCode/tree/master/1025-divisor-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/resultopac/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
