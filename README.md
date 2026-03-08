@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/resultopac/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/resultopac/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3379-score-of-a-string](https://github.com/resultopac/LeetCode/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/resultopac/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/resultopac/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/resultopac/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/resultopac/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/resultopac/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -49,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/resultopac/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
