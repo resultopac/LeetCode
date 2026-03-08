@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/resultopac/LeetCode/tree/master/1025-divisor-game) |
 | [1641-count-sorted-vowel-strings](https://github.com/resultopac/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/resultopac/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/resultopac/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/resultopac/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/resultopac/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/resultopac/LeetCode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/resultopac/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1220-count-vowels-permutation](https://github.com/resultopac/LeetCode/tree/master/1220-count-vowels-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -154,4 +156,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/resultopac/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/resultopac/LeetCode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/resultopac/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
