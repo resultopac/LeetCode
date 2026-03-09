@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/resultopac/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/resultopac/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/resultopac/LeetCode/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/resultopac/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/resultopac/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/resultopac/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/resultopac/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/resultopac/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/resultopac/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Game Theory
 |  |
