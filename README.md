@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/resultopac/LeetCode/tree/master/0338-counting-bits) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/resultopac/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -172,4 +173,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/resultopac/LeetCode/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->
