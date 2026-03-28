@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -192,11 +193,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->
