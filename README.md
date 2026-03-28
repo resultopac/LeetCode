@@ -178,17 +178,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 <!---LeetCode Topics End-->
