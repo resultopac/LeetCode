@@ -187,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/resultopac/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/resultopac/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/resultopac/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -209,9 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/resultopac/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/resultopac/LeetCode/tree/master/0002-add-two-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/resultopac/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
