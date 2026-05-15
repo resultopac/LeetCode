@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0938-range-sum-of-bst](https://github.com/resultopac/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/resultopac/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/resultopac/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/resultopac/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
 | [0938-range-sum-of-bst](https://github.com/resultopac/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/resultopac/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/resultopac/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/resultopac/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/resultopac/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1302-deepest-leaves-sum](https://github.com/resultopac/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/resultopac/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0938-range-sum-of-bst](https://github.com/resultopac/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/resultopac/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/resultopac/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/resultopac/LeetCode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/resultopac/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
