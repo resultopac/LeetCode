@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/resultopac/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/resultopac/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/resultopac/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3379-score-of-a-string](https://github.com/resultopac/LeetCode/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/resultopac/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/resultopac/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/resultopac/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/resultopac/LeetCode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/resultopac/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/resultopac/LeetCode/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Bitmask
 |  |
 | ------- |
