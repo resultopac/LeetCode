@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/resultopac/LeetCode/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/resultopac/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-reducing-dishes](https://github.com/resultopac/LeetCode/tree/master/1402-reducing-dishes) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/resultopac/LeetCode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/resultopac/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1672-richest-customer-wealth](https://github.com/resultopac/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/resultopac/LeetCode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/resultopac/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/resultopac/LeetCode/tree/master/1025-divisor-game) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/resultopac/LeetCode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/resultopac/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Memoization
 |  |
