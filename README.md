@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/resultopac/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1980-find-unique-binary-string](https://github.com/resultopac/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/resultopac/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/resultopac/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/resultopac/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/resultopac/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/resultopac/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/resultopac/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/resultopac/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/resultopac/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/resultopac/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/resultopac/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/resultopac/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
